@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hengjie Yu, Ph.D."
+title                    : "Welcome!"
 title_separator          : "-"
-name                     : &name "Hengjie Yu, Ph.D."
+name                     : &name "Welcome!"
 description              : &description "I am a postdoc in Westlake University"
 url                      : https://yuhengjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "yuhengjie/yuhengjie.github.io"
 author:
   # Biographic information
   avatar           : "hjyu2024.jpg"
-  name             : "Hengjie Yu, Ph.D."
+  name             : "Hengjie Yu"
   pronouns         : # example: "He/his"  
   bio              : "Postdoc in Westlake University"
   location         : "Hangzhou, China"
