@@ -22,9 +22,9 @@ repository               : "yuhengjie/yuhengjie.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Hengjie Yu, Ph.D."
+  pronouns         : # example: "He/his"  
+  bio              : "Postdoc in Westlake University"
   location         : "Hangzhou, China"
   employer         : "Westlake University"
   uri              : # URL
