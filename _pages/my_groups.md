@@ -1,5 +1,5 @@
 ---
-permalink: /my_groups/
+permalink: /
 title: "The team I joined"
 author_profile: true
 redirect_from: 
