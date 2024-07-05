@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "The teams I joined"
-    url: /my_groups/
+  - title: "Teams"
+    url: /teams/
 
   - title: "Photo diary"
     url: /Photo_diary/
