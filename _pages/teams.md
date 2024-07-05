@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-WEI Group [Link](https://www.labxing.com/lab/2006/members)
+[WEI Group](https://www.labxing.com/lab/2006/members)
 ======
 
 <div style="display:flex;justify-content:center;">
