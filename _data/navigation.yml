@@ -6,3 +6,5 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "My groups"
+    url: /my_groups/
