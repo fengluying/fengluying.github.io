@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /teams/
 title: "The team I joined"
 modified: 2016-06-06
 ---
