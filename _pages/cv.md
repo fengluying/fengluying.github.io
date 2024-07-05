@@ -86,7 +86,3 @@ Yang W, Gui L, Yang C, Yu L, Yan Z, **Feng L**, Xu L and Liu X. A flexible exosk
 
 Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, **Feng L** and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
 walking[P]. CN115556070A,2023-01-03.
-
-<div style="display:flex;justify-content:center;">
-   <img src="/images/WEI1.jpg" width="300" height="300" alt="Fig" style="margin:auto;">
-</div>
