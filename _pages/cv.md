@@ -36,7 +36,7 @@ Publications
 [1] Feng L, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals (in
 submission). 
 
-[2] Feng L, Gui L, Yan Z, Yu L, Yang C and Yang W*. Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
+[2] [Feng L](#), Gui L, Yan Z, Yu L, Yang C and Yang W*. Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
 
 [3] Feng L, Pin X, Wang X and Yu Z, Design of a Rapid Replacement System for UAV [J].Machine Building & Automation, 2022, 51(04): 192-195.DOI:10.19344/j.cnki.issn
 1671-5276. 2022.04.049. (Chinese Journal)
@@ -58,25 +58,25 @@ Bioengineering and Biotechnology. 9:774210. doi: 10.3389/fbioe.2021.774210. (SCI
 
 ## PATENTS
 ### First Author / Second Author (Tutor first)
-[1] Yang W, Feng L, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
+Yang W, Feng L, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
 
-[2] Feng L, Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399A,2022-12-13. 
+[Feng L](#)  , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399A,2022-12-13. 
 
-[3] Zhang S, Feng L, Yang C, Zhao W, Zeng J, Sun M, Yu Z and Jing Y. A UAV battery exchange base station[P]. CN114379411B,2022-04-22. 
+Zhang S, Feng L, Yang C, Zhao W, Zeng J, Sun M, Yu Z and Jing Y. A UAV battery exchange base station[P]. CN114379411B,2022-04-22. 
 
-[4] Feng L, Pin X, Sun M, Tian S, Li H, Chen Z and Ren Z. An UAV external positioning system[P]. CN111392050B,2020-07-10. 
+Feng L, Pin X, Sun M, Tian S, Li H, Chen Z and Ren Z. An UAV external positioning system[P]. CN111392050B,2020-07-10. 
 
-[5] Feng L, Pin X, Tian S, Sun M, Li H, Chen Z and Ren Z. A drone battery quick replacement device[P]. CN111267791B,2020-06-12. 
+Feng L, Pin X, Tian S, Sun M, Li H, Chen Z and Ren Z. A drone battery quick replacement device[P]. CN111267791B,2020-06-12. 
 
-[6] Zhang S, Feng L, Wang X, Zhao W, Zeng J, Wang Q, Wang C and Yang C. A two-phase driven soft crawling robot[P]. CN114670949B,2022-06-28. 
+Zhang S, Feng L, Wang X, Zhao W, Zeng J, Wang Q, Wang C and Yang C. A two-phase driven soft crawling robot[P]. CN114670949B,2022-06-28. 
 
-[7] Wang X, Feng L, Zhang S, Wu J, Guan Q, Xia Q, Wang Q, Wang C, Sun X, Song Z and Sun X. A two-phase-driven flexible hand claw[P]. CN114800583B,2022-07-29. 
+Wang X, Feng L, Zhang S, Wu J, Guan Q, Xia Q, Wang Q, Wang C, Sun X, Song Z and Sun X. A two-phase-driven flexible hand claw[P]. CN114800583B,2022-07-29. 
 ###Participant
-[8] Yang W, Gui L, Cao Q, Yan Z, Feng L, Yu L, Yang C, Liu X. A Lower Limb Rehabilitation Training System and Method Based on Near-Infrared Brain Functional
+Yang W, Gui L, Cao Q, Yan Z, Feng L, Yu L, Yang C, Liu X. A Lower Limb Rehabilitation Training System and Method Based on Near-Infrared Brain Functional
 Imaging[P]. CN116211656A,2023-06-06. 
 
-[9] Yang W, Gui L, Yang C, Yu L, Yan Z, Feng L, Xu L and Liu X. A flexible exoskeleton robot based on series flexible elaer driving unit and its control method[P]. CN115556071A, 2023-01-03. 
+Yang W, Gui L, Yang C, Yu L, Yan Z, Feng L, Xu L and Liu X. A flexible exoskeleton robot based on series flexible elaer driving unit and its control method[P]. CN115556071A, 2023-01-03. 
 
-[10] Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, Feng L and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
+Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, Feng L and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
 walking[P]. CN115556070A,2023-01-03.
 
