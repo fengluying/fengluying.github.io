@@ -88,5 +88,5 @@ Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, **Feng L** and Liu X. A hip exoskeleto
 walking[P]. CN115556070A,2023-01-03.
 
 <div style="display:flex;justify-content:center;">
-   <img src="images/WEI1.jpg" width="300" height="300" alt="Fig" style="margin:auto;">
+   <img src="/images/WEI1.jpg" width="300" height="300" alt="Fig" style="margin:auto;">
 </div>
