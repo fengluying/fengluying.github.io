@@ -21,7 +21,7 @@ redirect_from:
 Group photo, Ningbo, March 15, 2023
 <br>
   
-HOME
+[HOME（Human-machine and Ocean Mechatronic Engineering team）](https://www.jdzj.com/zncd/about.html)
 ======
 <div style="display:flex;justify-content:center;">
    <img src="/images/HOME.jpg" width="800" alt="Fig" style="margin:auto;">
