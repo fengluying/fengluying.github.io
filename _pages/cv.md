@@ -35,9 +35,9 @@ Publications
 ### In submission
 **Feng L**, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals.
 
-Luying Feng, Lianghong Gui, Xiang Wang, Hui Lyu, Canjun Yang, Yaochu Jin, and Wei Yang, Member, IEEE
-Force Calibration of Soft-sensing Unit\\for Flexible Exoskeleton
+**Feng L**, Gui L, Wang X, Lyu H, Yang C, Jin Y, and Yang W, Force Calibration of Soft-sensing Unit for Flexible Exoskeleton.
 
+**Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control.
 ### 2024
 
 ### 2023 
