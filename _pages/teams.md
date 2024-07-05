@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+可信及通用人工智能实验室（TGAI）
+======
+
 [WEI Group](https://www.labxing.com/lab/2006/members)
 ======
 
@@ -18,5 +21,11 @@ redirect_from:
 Group photo, Ningbo, March 15, 2023
 <br>
   
-可信及通用人工智能实验室（TGAI）
+HOME
 ======
+<div style="display:flex;justify-content:center;">
+   <img src="/images/HOME.jpg" width="800" alt="Fig" style="margin:auto;">
+</div>
+Group photo, Hangzhou, April 2, 2023
+<br>
+  
