@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /teams/
 title: "The team I joined"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /teams.html
 ---
 
 {% include base_path %}
