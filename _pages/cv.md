@@ -65,7 +65,6 @@ Bioengineering and Biotechnology. 9:774210. doi: 10.3389/fbioe.2021.774210.
 Li H, Pin X, Tian S, **Feng L**, Sun M and Chen Z, Unmanned aerial vehicle endurance mobile base station equipped with battery quick change device, Machinery, 2020,58(08):61-63+77. (Chinese Journal)
 
 ## PATENTS
-### First Author / Second Author (Tutor first)
 Yang W, **Feng L**, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
 
 **Feng L** , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399A,2022-12-13. 
@@ -79,7 +78,7 @@ Zhang S, **Feng L**, Yang C, Zhao W, Zeng J, Sun M, Yu Z and Jing Y. A UAV batte
 Zhang S, **Feng L**, Wang X, Zhao W, Zeng J, Wang Q, Wang C and Yang C. A two-phase driven soft crawling robot[P]. CN114670949B,2022-06-28. 
 
 Wang X, **Feng L**, Zhang S, Wu J, Guan Q, Xia Q, Wang Q, Wang C, Sun X, Song Z and Sun X. A two-phase-driven flexible hand claw[P]. CN114800583B,2022-07-29. 
-###Participant
+
 Yang W, Gui L, Cao Q, Yan Z, **Feng L**, Yu L, Yang C, Liu X. A Lower Limb Rehabilitation Training System and Method Based on Near-Infrared Brain Functional
 Imaging[P]. CN116211656A,2023-06-06. 
 
