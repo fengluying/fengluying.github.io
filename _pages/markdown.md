@@ -1,5 +1,5 @@
 ---
-permalink: /my_groups/
+permalink: /markdown/
 title: "The team I joined"
 author_profile: true
 redirect_from: 
