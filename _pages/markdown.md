@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "The team I joined"
+title: "markdown"
 author_profile: true
 redirect_from: 
   - /md/
