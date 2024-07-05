@@ -1,7 +1,6 @@
 ---
 permalink: /teams/
 title: "The teams I joined"
-modified: 2016-06-06
 ---
 
 {% include base_path %}
