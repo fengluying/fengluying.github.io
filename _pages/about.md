@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education background
-Hi! I am a postdoc at Schoole of Engineering, Westlake University in Hangzhou under my advisor [Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). I received my PhD in engineering from College of Biosystems Engineering and Food Science, Zhejiang University in 2024 under my advisor [Prof. Fang Cheng](https://person.zju.edu.cn/en/fcheng). From January 2023 to January 2024, I was a full-time visiting PhD student at the Department of Chemistry, National University of Singapore under my advisor [Prof. Sam F. Y. Li](https://www.samlilab.com/).
+Hi! I am a postdoc at Schoole of Engineering, Westlake University in Hangzhou under my advisor [Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). I received my Ph.D. degree in Engineering from College of Biosystems Engineering and Food Science, Zhejiang University in 2024 under my advisor [Prof. Fang Cheng](https://person.zju.edu.cn/en/fcheng). From January 2023 to January 2024, I was a full-time visiting PhD student at the Department of Chemistry, National University of Singapore under my advisor [Prof. Sam F. Y. Li](https://www.samlilab.com/).
 
 ## Research experience
 While at Zhejiang University, my research interests were rooted in explainable machine learning applied to nano-plant-environment interactions and nano-enabled agriculture. These areas allowed me to combine my passion for computational methods with real-world agricultural challenges.
