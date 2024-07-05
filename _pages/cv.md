@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Research Assistant in Computer Science, Westlake University, 2024
+* Research Assistant in Computer Science and Engineering, Westlake University, 2024
   
 Skills
 ======
