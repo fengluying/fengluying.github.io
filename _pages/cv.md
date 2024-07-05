@@ -16,10 +16,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Research Assistant
-  * Westlake University
-  * Duties includes: AI for Robotics
-  * Supervisor: Yaochu Jin
+* Research Assistant in Computer Science, Westlake University, 2024
   
 Skills
 ======
