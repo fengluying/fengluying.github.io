@@ -3,8 +3,8 @@ permalink: /my_groups/
 title: "The team I joined"
 author_profile: true
 redirect_from: 
-  - /my_groups/
-  - /my_groups.html
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
