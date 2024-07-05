@@ -1,6 +1,6 @@
 ---
 permalink: /teams/
-title: "The team I joined"
+title: "The teams I joined"
 modified: 2016-06-06
 ---
 
@@ -9,7 +9,6 @@ modified: 2016-06-06
 
 
 ## WEI Group
-
 [Link](https://www.labxing.com/lab/2006/members)
 
 <div style="display:flex;justify-content:center;">
