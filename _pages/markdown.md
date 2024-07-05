@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "markdown"
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
