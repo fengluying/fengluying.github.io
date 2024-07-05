@@ -18,6 +18,3 @@ Currently, I find myself increasingly drawn to the exciting realm of humanoid ro
 
 ## News
 Congratulations to Prof. Yaochu Jin for winning the [IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!
-
-[Optimizing benefit-risk trade-off in nano-agrochemicals through explainable machine learning: Beyond concentration](https://pubs.rsc.org/en/content/articlelanding/2024/en/d4en00213j)，Our article is now online in Environmental Science: Nano！
-
