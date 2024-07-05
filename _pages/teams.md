@@ -12,7 +12,7 @@ modified: 2016-06-06
 [Link](https://www.labxing.com/lab/2006/members)
 
 <div style="display:flex;justify-content:center;">
-   <img src="images/WEI1.jpg" width="300" height="300" alt="Fig" style="margin:auto;">
+   <img src="/images/WEI1.jpg" width="300" height="300" alt="Fig" style="margin:auto;">
 </div>
 
 Group photo, Ningbo, March 15, 2023
