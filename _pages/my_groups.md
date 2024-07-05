@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /my_groups/
 title: "The team I joined"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /my_groups/
+  - /my_groups.html
 ---
 
 {% include base_path %}
