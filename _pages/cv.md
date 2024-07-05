@@ -67,7 +67,7 @@ Li H, Pin X, Tian S, **Feng L**, Sun M and Chen Z, Unmanned aerial vehicle endur
 ## PATENTS
 Yang W, **Feng L**, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
 
-**Feng L** , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399A,2022-12-13. 
+**Feng L** , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399B,2022-12-13. 
 
 Zhang S, **Feng L**, Yang C, Zhao W, Zeng J, Sun M, Yu Z and Jing Y. A UAV battery exchange base station[P]. CN114379411B,2022-04-22. 
 
