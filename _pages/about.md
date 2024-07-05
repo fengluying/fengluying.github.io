@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education background
-Hi! I am an RA at Schoole of Engineering, Westlake University in Hangzhou under my advisor [Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). I received my Master's degree in Engineering from College of Mechanical Engineering, Zhejiang University in 2024 under my advisor [Prof. Canjun Yang](https://person.zju.edu.cn/ycj) and [Prof. Wei Yang](https://www.labxing.com/profile/121680). 
+Hi! I am an research assistant at Computer Science and Engineering, Westlake University in Hangzhou under my advisor [Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html). I received my Master's degree in Engineering from College of Mechanical Engineering, Zhejiang University in 2024 under my advisor [Prof. Canjun Yang](https://person.zju.edu.cn/ycj) and [Prof. Wei Yang](https://www.labxing.com/profile/121680). 
 
 ## Research experience
 While at Zhejiang University, my research interests were flexible exoskeleton and locomotion tracking. These areas allowed me to combine my passion for computational methods with real-world rehabilitation challenges.
