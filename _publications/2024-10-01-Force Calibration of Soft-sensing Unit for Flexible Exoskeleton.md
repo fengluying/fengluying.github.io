@@ -1,7 +1,7 @@
 ---
 title: "Force Calibration of Soft-sensing Unit for Flexible Exoskeleton"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/10218756
+permalink: /publication/2024-10-01-Force Calibration of Soft-sensing Unit for Flexible Exoskeleton
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-8-01
 venue: 'DOCS 2024'
