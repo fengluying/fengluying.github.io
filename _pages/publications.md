@@ -19,7 +19,9 @@ author_profile: true
   {% assign post_year = post.date | date: "%Y" %}
   {% if post_year != current_year %}
     {% assign current_year = post_year %}
+    {% if site.author.googlescholar %}
     <div class="wordwrap"># {{current_year}}</div>
+    {% endif %}
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
