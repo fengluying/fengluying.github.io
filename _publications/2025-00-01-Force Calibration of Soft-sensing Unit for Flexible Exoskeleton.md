@@ -1,9 +1,9 @@
 ---
 title: "Force Calibration of Soft-sensing Unit for Flexible Exoskeleton"
 collection: publications
-permalink: /publication/2025-00-00-Force Calibration of Soft-sensing Unit for Flexible Exoskeleton
+permalink: /publication/2025-00-01-Force Calibration of Soft-sensing Unit for Flexible Exoskeleton
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-00-00
+date: 2025-00-01
 venue: 'DOCS'
 paperurl: ''
 citation: 'DOCS 2024'
