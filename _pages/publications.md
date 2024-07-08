@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>333.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>444.</div>
 {% endif %}
 
 {% include base_path %}
@@ -20,7 +20,7 @@ author_profile: true
   {% if post_year != current_year %}
     {% assign current_year = post_year %}
     {% if site.author.googlescholar %}
-    <div class="wordwrap"># {{current_year}}</div>
+    <div class="wordwrap"# {{current_year}}>.</div>
     {% endif %}
   {% endif %}
   {% include archive-single.html %}
