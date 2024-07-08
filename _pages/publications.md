@@ -13,13 +13,13 @@ author_profile: true
 
 # 2023
 
-{% for post in site.publications_2023 reversed %}
+{% for post in site.2023 reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 
 # 2022
 
-{% for post in site.publications_2022 reversed %}
+{% for post in site.2022 reversed %}
   {% include archive-single.html %}
 {% endfor %}
