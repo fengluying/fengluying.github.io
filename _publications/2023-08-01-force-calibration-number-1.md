@@ -5,7 +5,7 @@ permalink: /publication/2023-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-8-01
 venue: '2023 International Conference on Advanced Robotics and Mechatronics (ICARM)'
-% slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10218756'
 citation: 'L. Feng, L. Gui, Z. Yan, L. Yu, C. Yang and W. Yang, "Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning," 2023 International Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, China, 2023, pp. 852-857, doi: 10.1109/ICARM58088.2023.10218756.'
 ---
