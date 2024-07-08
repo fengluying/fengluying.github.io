@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2023-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-8-01
-venue: 'Journal 1'
+venue: '2023 International Conference on Advanced Robotics and Mechatronics (ICARM)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10218756'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
