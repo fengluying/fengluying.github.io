@@ -14,12 +14,18 @@ author_profile: true
 ## In submission
 
 {% for post in site.publications reversed %}
-  {% if post.year == 2024 %}
+  {% if post.year == 0000 %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
 ## 2024
+
+{% for post in site.publications reversed %}
+  {% if post.year == 2024 %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 ## 2023
 
