@@ -14,11 +14,11 @@ redirect_from:
 * M.S. in Mechanical Engineering, Zhejiang University, 2021
 * B.S. in Mechanical and Electronic Engineering, Jiangnan University, 2017
 
-Work experience
+<span style="color: #800000;">Work experience</span>
 ======
 * Research Assistant in Computer Science and Engineering, Westlake University, 2024
   
-Skills
+<span style="color: #800000;">Skills</span>
 ======
 * Operator Level 1 on the GRAIL, experienced in gait analysis and therapy with patients or other subjects using the GRAIL
 * Proficient in programming languages for machine learning
@@ -29,9 +29,9 @@ Skills
 * Proficient in mechanical structure design using SOLIDWORKS
 * In-depth experience in embedded software development with Raspberry Pi and Arduino
 
-Publications
+<span style="color: #800000;">Publications</span>
 ======
-## PAPERS
+## <span style="color: #800000;">PAPERS</span>
 ### In submission
 **Feng L**, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals.
 
@@ -64,7 +64,7 @@ Bioengineering and Biotechnology. 9:774210. doi: 10.3389/fbioe.2021.774210.
 
 Li H, Pin X, Tian S, **Feng L**, Sun M and Chen Z, Unmanned aerial vehicle endurance mobile base station equipped with battery quick change device, Machinery, 2020,58(08):61-63+77. (Chinese Journal)
 
-## PATENTS
+## ## <span style="color: #800000;">PATENTS</span>
 Yang W, **Feng L**, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
 
 **Feng L** , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399B,2022-12-13. 
