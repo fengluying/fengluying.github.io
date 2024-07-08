@@ -27,3 +27,13 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+
+
+# 2022
+
+{% for post in site.publications reversed %}
+  {% if post.year == 2022 %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
