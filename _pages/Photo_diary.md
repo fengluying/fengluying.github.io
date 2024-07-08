@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="display:flex;justify-content:center;">
-   <video src="\images\DOCS.mp4" width="600" ></video>
+   <video src="\images\DOCS.mp4" width="600" >
 </div>
 <br>
 
