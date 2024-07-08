@@ -1,9 +1,9 @@
 ---
 title: "Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning"
 collection: publications
-permalink: /publication/2023-08-01-Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning
+permalink: /publication/2023-08-25-Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-8-01
+date: 2023-8-25
 venue: '2023 International Conference on Advanced Robotics and Mechatronics (ICARM)'
 paperurl: 'https://ieeexplore.ieee.org/document/10218756'
 citation: 'Feng L, Gui L, Yan Z, Yu L, Yang C and Yang W*. Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857.'
