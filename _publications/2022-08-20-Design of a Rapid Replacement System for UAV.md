@@ -1,7 +1,7 @@
 ---
 title: "Design of a Rapid Replacement System for UAV"
 collection: publications
-permalink: 2022-08-20-Design of a Rapid Replacement System for UAV
+permalink: /publication/2022-08-20-Design of a Rapid Replacement System for UAV
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-8-20
 venue: '2023 International Conference on Advanced Robotics and Mechatronics (ICARM)'
