@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2025-00-00-Force Calibration of Soft-sensing Unit for Flexible Exoskeleton
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-00-00
-venue: 'DOCS 2024'
-paperurl: 'https://ieeexplore.ieee.org/document/10218756'
+venue: 'DOCS'
+paperurl: ''
 citation: 'DOCS 2024'
 year: 0000
 ---
