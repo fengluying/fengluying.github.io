@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% # year %}
+  {% assign post_year = year %}
+  {% if post_year != year %}
+    {% assign current_year = post_year %}
+      {% # year %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
