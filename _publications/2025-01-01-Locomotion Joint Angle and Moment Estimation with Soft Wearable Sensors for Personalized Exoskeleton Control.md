@@ -19,6 +19,7 @@ In recent years, significant advancements in flexible sensing and machine learni
 </video>
 </div>
 
+<br>
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
   <source src="/images/Personalized.mp4" type="video/mp4">
