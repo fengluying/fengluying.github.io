@@ -17,5 +17,5 @@ Currently, I find myself increasingly drawn to the exciting realm of humanoid ro
 
 
 ## News
-Congratulations to Prof. Yaochu Jin for winning the [IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!————July 4, 2024
+Congratulations to Prof. Yaochu Jin for winning the [IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!——July 4, 2024
 
