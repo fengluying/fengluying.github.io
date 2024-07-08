@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-可信及通用人工智能实验室（TGAI）
+TGAI (Trustworthy and General Artificial Intelligence Laboratory)
 ======
 <div style="display:flex;justify-content:center;">
    <img src="/images/TGAI.jpg" width="600" alt="Fig" style="margin:auto;">
