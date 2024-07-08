@@ -1,10 +1,10 @@
 ---
-permalink: /Photo_diary/
-title: "Photo diary"
+permalink: /News/
+title: "News"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Photo_diary.html
+  - /News.html
 ---
 
 {% include base_path %}
