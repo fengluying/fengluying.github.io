@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="display:flex;justify-content:center;">
-   <video src="\images\DOCS.mp4" width="600" >
-</div>
-<br>
-
+<video width="400" controls>
+  <source src="\images\DOCS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
