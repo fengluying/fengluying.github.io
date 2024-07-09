@@ -11,3 +11,6 @@ main:
 
   - title: "News"
     url: /News/
+
+  - title: "Projects"
+    url: /Projects/
