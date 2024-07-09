@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="display:flex;justify-content:center;">
-   <img src="/images/YCJ.jpg" width="400" alt="Fig" style="margin:auto;">
-</div>
-Group photo, Hangzhou, April 2, 2023
-<br>
+
 
 * Congratulations to Prof. Yaochu Jin for winning the [IEEE Frank Rosenblatt Award](https://corporate-awards.ieee.org/recipients/current-recipients/)!!!——July 4, 2024
-
+<div style="display:flex;justify-content:center;">
+   <img src="/images/YCJ.jpg" width="300" alt="Fig" style="margin:auto;">
+</div>
+<br>
 
