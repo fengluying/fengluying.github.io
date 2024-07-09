@@ -35,10 +35,10 @@ redirect_from:
 ### In submission
 **Feng L**, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals.
 
-**Feng L**, Gui L, Wang X, Lyu H, Yang C, Jin Y, and Yang W, Force Calibration of Soft-sensing Unit for Flexible Exoskeleton.
-
 **Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control.
+
 ### 2024
+**Feng L**, Gui L, Wang X, Lyu H, Yang C, Jin Y, and Yang W, Force Calibration of Soft-sensing Unit for Flexible Exoskeleton.
 
 ### 2023 
 **Feng L**, Gui L, Yan Z, Yu L, Yang C and Yang W*. Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
