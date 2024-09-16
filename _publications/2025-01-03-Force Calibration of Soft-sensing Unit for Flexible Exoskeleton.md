@@ -2,7 +2,7 @@
 title: "Force Calibration of Soft-sensing Unit for Flexible Exoskeleton"
 collection: publications
 permalink: /publication/2025-01-03-Force Calibration of Soft-sensing Unit for Flexible Exoskeleton
-excerpt: 'The paper has been accepted by The 6th International Conference on Data-driven Optimization of Complex Systems (DOCS 2024).'
+excerpt: 'The present paper is a continuation of the study on "Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning."'
 date: 2024-08-16
 venue: 'DOCS'
 paperurl: ''
