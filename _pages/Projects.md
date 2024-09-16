@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color: #800000;">Under constructionn</span>
+**Under construction**
