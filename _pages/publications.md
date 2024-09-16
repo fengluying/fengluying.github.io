@@ -42,3 +42,11 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+## 2020
+
+{% for post in site.publications reversed %}
+  {% if post.year == 2020 %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
