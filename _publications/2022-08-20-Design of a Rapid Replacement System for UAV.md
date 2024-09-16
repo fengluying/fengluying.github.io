@@ -13,6 +13,9 @@ year: 2022
 
 To reduce the high cost of UAV battery replacement，a low-cost，high-precision battery quick change system for UAV is designed． The system is composed of external positioning device and battery changing device． The GPS navigation system is integrated with UAV vision to control UAV hovering above the external positioning device． Four positioning rods are applied to move outward from the inside of the UAV＇s four landing gears to gradually calibrate the UAV＇s position and finally fix it，which meets the requirements of subsequent battery replacement device of UAV． Model aircraft battery is placed in a special battery box，which firmly is fixed in the base of UAV as well as in convenience for new special battery box replacement． By the proposed design，the low-cost and high-precision positioning and fast and accurate battery replacement of UAV are realized with high industrial application value．
 
+download pdf: 
+<source src="/files/Design of a Rapid Replacement System for UAV.pdf" type="pdf">
+
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
   <source src="/images/UAV.mp4" type="video/mp4">
