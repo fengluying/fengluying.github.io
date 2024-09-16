@@ -18,7 +18,7 @@ Soft sensors are increasingly used in wearable devices as well as soft robotics.
   Your browser does not support the video tag.
 </video>
 </div>
-
+<br>
 <div style="display:flex;justify-content:center;">
    <img src="/images/DOCS2024_1.jpg" height="400" alt="Fig" style="margin:auto;">
    <img src="/images/DOCS2024_2.jpg" height="400" alt="Fig" style="margin:auto;">
