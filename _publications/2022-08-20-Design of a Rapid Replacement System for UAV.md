@@ -1,5 +1,5 @@
 ---
-title: "无人机电池快换系统的设计(Design of a Rapid Replacement System for UAV)"
+title: "Design of a Rapid Replacement System for UAV"
 collection: publications
 permalink: /publication/2022-08-20-Design of a Rapid Replacement System for UAV
 excerpt: 'This article is the result of my undergraduate graduation project.'
