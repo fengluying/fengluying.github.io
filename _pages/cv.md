@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="color: #800000;">Education 111</span>
+<span style="color: #800000;">Education</span>
 ======
 * M.S. in Mechanical Engineering, Zhejiang University, 2021
 * B.S. in Mechanical and Electronic Engineering, Jiangnan University, 2017
