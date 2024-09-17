@@ -98,19 +98,19 @@ walking[P]. CN115556070A,2023-01-03.
 
 <span style="color: #800000;">Honors</span>
 ======
-* 2024.03 Outstanding Graduate Student of Zhejiang University
-* 2023.11 Scholarship of Excellent Academic Performance of 2023, Ningbo Innovation Center, Zhejiang University
-* 2022.12 Award of Honor for Graduate, Zhejiang University
-* 2022.12 Scholarship of Excellent Academic Performance of 2022, Ningbo Innovation Center, Zhejiang University
-* 2019.11 Scholarship of Scientific and Technological Innovation, Jiangnan University
-* 2018.11 Scholarship of Scientific and Technological Innovation, Jiangnan University
-* 2018.11 Exceptional Student Leader, Jiangnan University
+* 2024.03: Outstanding Graduate Student of Zhejiang University
+* 2023.11: Scholarship of Excellent Academic Performance of 2023, Ningbo Innovation Center, Zhejiang University
+* 2022.12: Award of Honor for Graduate, Zhejiang University
+* 2022.12: Scholarship of Excellent Academic Performance of 2022, Ningbo Innovation Center, Zhejiang University
+* 2019.11: Scholarship of Scientific and Technological Innovation, Jiangnan University
+* 2018.11: Scholarship of Scientific and Technological Innovation, Jiangnan University
+* 2018.11: Exceptional Student Leader, Jiangnan University
 
 <span style="color: #800000;">Awards</span>
 ======
-* 2021.02-2021.05 Excellent Graduation Project of Jiangsu Province, First prize
-* 2020.10-2021.07 20th ROBOCON-China University Robot Competition, National Third Prize
-* 2019.07-2020.09 19th ROBOCON-China University Robot Competition, National Third Prize
-* 2019.06-2020.07 National Conference on Undergraduate Innovation and Entrepreneurship, National Outstanding Project
-* 2018.05-2019.06 18th ROBOCON-China University Robot Competition, National Second Prize
+* 2021.02-2021.05: Excellent Graduation Project of Jiangsu Province, First prize
+* 2020.10-2021.07: 20th ROBOCON-China University Robot Competition, National Third Prize
+* 2019.07-2020.09: 19th ROBOCON-China University Robot Competition, National Third Prize
+* 2019.06-2020.07: National Conference on Undergraduate Innovation and Entrepreneurship, National Outstanding Project
+* 2018.05-2019.06: 18th ROBOCON-China University Robot Competition, National Second Prize
 
