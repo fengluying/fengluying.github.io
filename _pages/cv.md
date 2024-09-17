@@ -11,12 +11,12 @@ redirect_from:
 
 <span style="color: #800000;">Education</span>
 ======
-* M.S. in Mechanical Engineering, Zhejiang University, 2021
-* B.S. in Mechanical and Electronic Engineering, Jiangnan University, 2017
+* 2021.9-2024.3: M.S. in Mechanical Engineering, Zhejiang University
+* 2017.9-2021.6: B.S. in Mechanical and Electronic Engineering, Jiangnan University
 
 <span style="color: #800000;">Work experience</span>
 ======
-* Research Assistant in Computer Science and Engineering, Westlake University, 2024
+* 2024.4~: Research Assistant in Computer Science and Engineering, Westlake University
   
 <span style="color: #800000;">Skills</span>
 ======
@@ -86,3 +86,15 @@ Yang W, Gui L, Yang C, Yu L, Yan Z, **Feng L**, Xu L and Liu X. A flexible exosk
 
 Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, **Feng L** and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
 walking[P]. CN115556070A,2023-01-03.
+
+<span style="color: #800000;">Awards and honors</span>
+======
+* 2024.03 Outstanding Graduate Student of Zhejiang University
+* 2023.11 Scholarship of Excellent Academic Performance of 2023, Ningbo Innovation Center, Zhejiang University
+* 2022.12 Award of Honor for Graduate, Zhejiang University
+* 2022.12 Scholarship of Excellent Academic Performance of 2022, Ningbo Innovation Center, Zhejiang University
+* 2019.11 Scholarship of Scientific and Technological Innovation, Jiangnan University
+* 2018.11 Scholarship of Scientific and Technological Innovation, Jiangnan University
+* 2018.11 Exceptional Student Leader, Jiangnan University
+
+
