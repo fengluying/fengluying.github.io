@@ -17,7 +17,16 @@ redirect_from:
 <span style="color: #800000;">Work experience</span>
 ======
 * 2024.4~: Research Assistant in Computer Science and Engineering, Westlake University
-  
+
+<span style="color: #800000;">Research interests</span>
+======
+* Human-Machine Interaction
+* Locomotion Tracking
+* Embodied Intelligence
+* Health Care and Rehabilitation Strategy
+* Humanoid Robot and Exoskeleton
+
+
 <span style="color: #800000;">Skills</span>
 ======
 * Operator Level 1 on the GRAIL, experienced in gait analysis and therapy with patients or other subjects using the GRAIL
@@ -99,9 +108,9 @@ walking[P]. CN115556070A,2023-01-03.
 
 <span style="color: #800000;">Awards</span>
 ======
-* 2021.2-2021.5 Excellent Graduation Project of Jiangsu Province, First prize
+* 2021.02-2021.05 Excellent Graduation Project of Jiangsu Province, First prize
 * 2020.10-2021.07 20th ROBOCON-China University Robot Competition, National Third Prize
 * 2019.07-2020.09 19th ROBOCON-China University Robot Competition, National Third Prize
-* 2019.6-2020.7 National Conference on Undergraduate Innovation and Entrepreneurship, National Outstanding Project
+* 2019.06-2020.07 National Conference on Undergraduate Innovation and Entrepreneurship, National Outstanding Project
 * 2018.05-2019.06 18th ROBOCON-China University Robot Competition, National Second Prize
 
