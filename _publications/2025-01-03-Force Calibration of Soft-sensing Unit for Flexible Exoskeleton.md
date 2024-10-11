@@ -5,7 +5,7 @@ permalink: /publication/2025-01-03-Force Calibration of Soft-sensing Unit for Fl
 excerpt: 'The present paper is a continuation of the study on "Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning."'
 date: 2024-10-11
 venue: 'DOCS'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10704430'
 citation: 'DOCS'
 year: 2024
 ---
