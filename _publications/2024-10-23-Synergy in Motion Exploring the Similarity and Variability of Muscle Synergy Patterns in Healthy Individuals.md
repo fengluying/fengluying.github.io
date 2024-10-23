@@ -1,7 +1,7 @@
 ---
 title: "Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals"
 collection: publications
-permalink: /publication/2025-01-02-Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals
+permalink: /publication/2024-10-23-Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals
 excerpt: 'Accepted by HUMAN MOVEMENT SCIENCE'
 date: 2024-10-23
 venue: ''
