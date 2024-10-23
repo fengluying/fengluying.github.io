@@ -42,7 +42,7 @@ redirect_from:
 ======
 ## <span style="color: #800000;">PAPERS</span>
 ### In submission
-**Feng L**, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals.
+**Feng L**, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals.(Accepted by HUMAN MOVEMENT SCIENCE)
 
 **Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control.
 
