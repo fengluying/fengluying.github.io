@@ -2,12 +2,12 @@
 title: "Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals"
 collection: publications
 permalink: /publication/2025-01-02-Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals
-excerpt: 'In submission'
-date: 2025-01-02
+excerpt: 'Accepted by HUMAN MOVEMENT SCIENCE'
+date: 2024-10-23
 venue: ''
 paperurl: ''
 citation: ''
-year: 0000
+year: 2024
 ---
 
 **Background:** Recent studies suggest that muscle synergy patterns can be a guide for diagnosis and rehabilitation. 
