@@ -48,7 +48,7 @@ redirect_from:
 ### 2024
 **Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W, Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
 
-**Feng L**, Gui L, Wang X, Lyu H, Yang C, Jin Y, and Yang W, Force Calibration of Soft-sensing Unit for Flexible Exoskeleton.
+**Feng L**, Gui L, Wang X, et al. Force Calibration of Soft-Sensing Unit for Flexible Exoskeleton[C]//2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2024: 358-364.
 
 ### 2023 
 **Feng L**, Gui L, Yan Z, Yu L, Yang C and Yang W, Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
