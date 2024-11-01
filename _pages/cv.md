@@ -42,15 +42,16 @@ redirect_from:
 ======
 ## <span style="color: #800000;">PAPERS</span>
 ### In submission
-**Feng L**, Yu L, Yang C, Zhou C and Yang W*, Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals.(Accepted by HUMAN MOVEMENT SCIENCE)
 
 **Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control.
 
 ### 2024
+**Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W, Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
+
 **Feng L**, Gui L, Wang X, Lyu H, Yang C, Jin Y, and Yang W, Force Calibration of Soft-sensing Unit for Flexible Exoskeleton.
 
 ### 2023 
-**Feng L**, Gui L, Yan Z, Yu L, Yang C and Yang W*. Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
+**Feng L**, Gui L, Yan Z, Yu L, Yang C and Yang W, Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
 
 Yang W, Yan Z, Yu L*, **Feng L**, Gui L and Yang C, Muscle Synergy-Based Human-In-The-Loop Optimization for Personalized Hip Exoskeleton Control[C]//2023
 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 73-78. 
@@ -61,8 +62,7 @@ Yang W, Gui L, **Feng L**, et al. Design and Control of a Novel Underactuated So
 **Feng L**, Pin X, Wang X and Yu Z, Design of a Rapid Replacement System for UAV [J].Machine Building & Automation, 2022, 51(04): 192-195.DOI:10.19344/j.cnki.issn
 1671-5276. 2022.04.049. (Chinese Journal)
 
-Sun X, Sun X, Wang Q, Wang X, **Feng L** and Yang Y, et al. Biosensors toward Behavior Detection in Diagnosis of Alzheimer’s Disease. Frontiers in
-Bioengineering and Biotechnology.2022. 
+Sun X, Sun X, Wang Q, Wang X, **Feng L** and Yang Y, et al. Biosensors toward Behavior Detection in Diagnosis of Alzheimer’s Disease. Frontiers in Bioengineering and Biotechnology.2022. 
 
 ### 2021
 Zhang S, Zeng J, Wang C, **Feng L**, Song Z, Zhao W, Wang Q and Liu C (2021) The Application of Wearable Glucose Sensors in Point-of-Care Testing. Frontiers in
