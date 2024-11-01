@@ -5,8 +5,8 @@ permalink: /publication/2024-10-23-Synergy in Motion Exploring the Similarity an
 excerpt: 'Accepted by HUMAN MOVEMENT SCIENCE'
 date: 2024-10-23
 venue: 'HUMAN MOVEMENT SCIENCE'
-paperurl: ''
-citation: ''
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167945724001258'
+citation: 'L. Feng, L. Yu, H. Lyu, C. Yang, X. Liu, C. Zhou, and W. Yang, “Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals,” Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.'
 year: 2024
 ---
 
