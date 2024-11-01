@@ -2,7 +2,7 @@
 title: "Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals"
 collection: publications
 permalink: /publication/2024-10-23-Synergy in Motion Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals
-excerpt: 'Accepted by HUMAN MOVEMENT SCIENCE'
+excerpt: 'This paper discovered some interesting phenomena in lower limb muscle synergies.'
 date: 2024-10-23
 venue: 'HUMAN MOVEMENT SCIENCE'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167945724001258'
