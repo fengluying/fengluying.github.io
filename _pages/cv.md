@@ -106,25 +106,22 @@ Yang W, Gui L, Cao Q, Yan Z, **Feng L**, Yu L, Yang C, Liu X. A Lower Limb Rehab
 
 Chen Z, Ping X, Tian S, Li H, **Feng L**, Sun M, Jiang Y. A quickly detachable battery[P]. CN111017233B, 2022-03-15.
 
-Yang W, Gui L, Yang C, Yu L, Yan Z, **Feng L**, Xu L and Liu X. A flexible exoskeleton robot based on series flexible elaer driving unit and its control method[P]. CN115556071A, 2023-01-03. 
-
-Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, **Feng L** and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
-walking[P]. CN115556070A,2023-01-03.
-
 Yang W, Cao Q, Gui L, Yan Z, **Feng L**, Yang C, Liu X. A collaborative rehabilitation system and method integrating functional electrical stimulation and a lower limb exoskeleton[P]. CN116492203A, 2023-07-28.
 
 Chen Z, Ping X, Tian S, Li H, **Feng L**, Sun M, Jiang Y. A UAV battery exchange system[P]. CN110979091B, 2023-03-31.
 
 Chen Z, Ping X, Tian S, Li H, **Feng L**, Sun M, Jiang Y. A UAV battery rotational replacement device[P]. CN111038326B, 2023-02-24.
 
+Yang W, Gui L, Yang C, Yu L, Yan Z, **Feng L**, Xu L and Liu X. A flexible exoskeleton robot based on series flexible elaer driving unit and its control method[P]. CN115556071A, 2023-01-03. 
+
+Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, **Feng L** and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
+walking[P]. CN115556070A,2023-01-03.
+
 Yang C, Song Z, Zhang S, Xia Q, Jin B, Chen Y, Liu C, Zeng J, **Feng L**, Zhao W, Shang F. A bionic spine hydraulic soft robot[P]. CN114274138B, 2023-11-07.
 
 Zeng J, Zhang S, Xia Q, Zhao W, **Feng L**, Hu R, Jin B, Yang C. An automatic pressing system for non-colonoscopy surgery[P]. CN217066611U, 2022-07-29.
 
 Liu C, Zhang S, Sun X, Jin B, Yang C, Zheng Y, Zeng J, Zhao W, **Feng L**. A bulletproof vest[P]. CN216845896U, 2022-06-28.
-
-
-
 
 <span style="color: #800000;">Honors</span>
 ======
