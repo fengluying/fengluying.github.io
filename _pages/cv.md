@@ -88,13 +88,43 @@ Zhang S, **Feng L**, Wang X, Zhao W, Zeng J, Wang Q, Wang C and Yang C. A two-ph
 
 Wang X, **Feng L**, Zhang S, Wu J, Guan Q, Xia Q, Wang Q, Wang C, Sun X, Song Z and Sun X. A two-phase-driven flexible hand claw[P]. CN114800583B,2022-07-29. 
 
-Yang W, Gui L, Cao Q, Yan Z, **Feng L**, Yu L, Yang C, Liu X. A Lower Limb Rehabilitation Training System and Method Based on Near-Infrared Brain Functional
-Imaging[P]. CN116211656A,2023-06-06. 
+**Feng L**, Sun M, Ren D, Zhu C, Chen J. A gravity-sensing turn signal device[P]. CN209972646U, 2020-01-21.
+
+**Feng L**, Sun M, Ren D, Chen J, Zhu C, Zhou X, Zhu Y. A grip-sensing turn signal device[P]. CN209650430U, 2019-11-19.
+
+Zhang S, **Feng L**, Xia Q, Sun X, Liu C, Zhao W, Zeng J, Hu R, Zhou Y, Yang C. A medical box for Alzheimer's detection with self-locking structure[P]. CN218391282U, 2023-01-31.
+
+Tian S, Ping X, **Feng L**, Sun M, Li H, Chen Z, Ren Z. A UAV quick battery replacement system[P]. CN111267790B, 2021-07-27.
+
+Fang J, Yang W, **Feng L**, Hu H, Yang C, Yan Z, Xu W, Gui L, Liu D. A mirror-assisted control method for exoskeletons capable of real-time estimation of lower limb joint torques[P]. CN116999296A, 2023-11-07.
+
+Zhang S, Zhao W, Zeng J, **Feng L**, Wang X, Tao Y, Hu R, Hu H, Sun X. A contact lens case and detection method for measuring glucose content in tears[P]. CN115452916A, 2022-12-09.
+
+Wang Q, Zhang S, Wang X, **Feng L**, Wang C, Xia Q. An elastic current collector printing ink, its preparation method, and application in 3D-printed stretchable batteries[P]. CN115207362A, 2022-10-18.
+
+Yang W, Gui L, Cao Q, Yan Z, **Feng L**, Yu L, Yang C, Liu X. A Lower Limb Rehabilitation Training System and Method Based on Near-Infrared Brain Functional Imaging[P]. CN116211656A,2023-06-06. 
+
+Chen Z, Ping X, Tian S, Li H, **Feng L**, Sun M, Jiang Y. A quickly detachable battery[P]. CN111017233B, 2022-03-15.
 
 Yang W, Gui L, Yang C, Yu L, Yan Z, **Feng L**, Xu L and Liu X. A flexible exoskeleton robot based on series flexible elaer driving unit and its control method[P]. CN115556071A, 2023-01-03. 
 
 Yang W, Yan Z, Yang C, Yu L, Xu L, Gui L, **Feng L** and Liu X. A hip exoskeleton structure and its control method that can simultaneously facilitate handling and
 walking[P]. CN115556070A,2023-01-03.
+
+Yang W, Cao Q, Gui L, Yan Z, **Feng L**, Yang C, Liu X. A collaborative rehabilitation system and method integrating functional electrical stimulation and a lower limb exoskeleton[P]. CN116492203A, 2023-07-28.
+
+Chen Z, Ping X, Tian S, Li H, **Feng L**, Sun M, Jiang Y. A UAV battery exchange system[P]. CN110979091B, 2023-03-31.
+
+Chen Z, Ping X, Tian S, Li H, **Feng L**, Sun M, Jiang Y. A UAV battery rotational replacement device[P]. CN111038326B, 2023-02-24.
+
+Yang C, Song Z, Zhang S, Xia Q, Jin B, Chen Y, Liu C, Zeng J, **Feng L**, Zhao W, Shang F. A bionic spine hydraulic soft robot[P]. CN114274138B, 2023-11-07.
+
+Zeng J, Zhang S, Xia Q, Zhao W, **Feng L**, Hu R, Jin B, Yang C. An automatic pressing system for non-colonoscopy surgery[P]. CN217066611U, 2022-07-29.
+
+Liu C, Zhang S, Sun X, Jin B, Yang C, Zheng Y, Zeng J, Zhao W, **Feng L**. A bulletproof vest[P]. CN216845896U, 2022-06-28.
+
+
+
 
 <span style="color: #800000;">Honors</span>
 ======
