@@ -1,7 +1,7 @@
 ---
 title: "Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control"
 collection: publications
-permalink: /publication/Locomotion-Joint-Angle-and-Moment-Estimation
+permalink: /publication/LJAME-SWS-PEC
 excerpt: 'In submission'
 date: 2025-01-01
 venue: ' '
