@@ -10,6 +10,7 @@ citation: ' '
 year: 2025
 ---
 
+
 Data Collection
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
