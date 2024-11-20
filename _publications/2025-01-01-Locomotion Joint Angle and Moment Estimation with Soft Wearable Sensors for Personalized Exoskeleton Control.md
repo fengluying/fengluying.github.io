@@ -30,7 +30,7 @@ Personalized Assistance Experiments
 
 <br>
 <div style="display:flex;justify-content:center;">
-   <img src="/images/WEN.jpg" width="600" alt="Fig" style="margin:auto;">
+   <img src="/images/WEN.png" width="600" alt="Fig" style="margin:auto;">
 </div>
 QUESTIONNAIRE SURVEY RESULTS
 <br>
