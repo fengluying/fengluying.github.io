@@ -27,3 +27,10 @@ Personalized Assistance Experiments
   Your browser does not support the video tag.
 </video>
 </div>
+
+<br>
+<div style="display:flex;justify-content:center;">
+   <img src="/images/WEN.jpg" width="600" alt="Fig" style="margin:auto;">
+</div>
+QUESTIONNAIRE SURVEY RESULTS
+<br>
