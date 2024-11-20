@@ -20,7 +20,6 @@ year: 2025
 </div>
 
 ### Personalized Assistance Experiments
-<br>
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
   <source src="/images/Personalized.mp4" type="video/mp4">
@@ -28,7 +27,6 @@ year: 2025
 </video>
 </div>
 
-<br>
 ### Questionnaire Survey Results
 <div style="display:flex;justify-content:center;">
    <img src="/images/WEN.png" width="600" alt="Fig" style="margin:auto;">
