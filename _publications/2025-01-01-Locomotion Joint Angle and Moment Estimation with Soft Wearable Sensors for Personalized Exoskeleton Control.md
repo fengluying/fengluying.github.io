@@ -29,7 +29,7 @@ Personalized Assistance Experiments
 </div>
 
 <br>
-### QUESTIONNAIRE SURVEY RESULTS
+### Questionnaire Survey Results
 <div style="display:flex;justify-content:center;">
    <img src="/images/WEN.png" width="600" alt="Fig" style="margin:auto;">
 </div>
