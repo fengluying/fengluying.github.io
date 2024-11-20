@@ -11,7 +11,7 @@ year: 2025
 ---
 
 
-Data Collection
+### Data Collection
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
   <source src="/images/Data_collection_LOCO.mp4" type="video/mp4">
@@ -19,7 +19,7 @@ Data Collection
 </video>
 </div>
 
-Personalized Assistance Experiments
+### Personalized Assistance Experiments
 <br>
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
