@@ -43,7 +43,7 @@ redirect_from:
 ## <span style="color: #800000;">PAPERS</span>
 ### In submission
 
-**Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control.
+**Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control. (Accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering)
 
 ### 2024
 **Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W, Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
