@@ -13,6 +13,8 @@ author_profile: true
 
 ## In submission
 
+## 2025
+
 {% for post in site.publications reversed %}
   {% if post.year == 2025 %}
     {% include archive-single.html %}
