@@ -41,19 +41,18 @@ redirect_from:
 <span style="color: #800000;">Publications</span>
 ======
 ## <span style="color: #800000;">PAPERS</span>
-### In submission
-
-**Feng L** et. al. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control. (Accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering)
+### 2025
+**Feng L**, Gui L, Xu W, Wang X, Yang C, Jin Y and Yang W. Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exosuit Control, IEEE Transactions on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2025.3547361.
 
 ### 2024
-**Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W, Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
+**Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W. Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
 
 **Feng L**, Gui L, Wang X, et al. Force Calibration of Soft-Sensing Unit for Flexible Exoskeleton[C]//2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2024: 358-364.
 
 ### 2023 
-**Feng L**, Gui L, Yan Z, Yu L, Yang C and Yang W, Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
+**Feng L**, Gui L, Yan Z, Yu L, Yang C and Yang W. Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning[C], 2023 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 852-857. 
 
-Yang W, Yan Z, Yu L*, **Feng L**, Gui L and Yang C, Muscle Synergy-Based Human-In-The-Loop Optimization for Personalized Hip Exoskeleton Control[C]//2023
+Yang W, Yan Z, Yu L*, **Feng L**, Gui L and Yang C. Muscle Synergy-Based Human-In-The-Loop Optimization for Personalized Hip Exoskeleton Control[C]//2023
 International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2023: 73-78. 
 
 Yang W, Gui L, **Feng L**, et al. Design and Control of a Novel Underactuated Soft Exosuit[C]//International Conference on Intelligent Robotics and Applications. Singapore: Springer Nature Singapore, 2023: 564-575. 
