@@ -20,11 +20,6 @@ Recent advancements in flexible sensing and machine learning have positioned sof
 </video>
 </div>
 
-### Subject Information
-<div style="display:flex;justify-content:center;">
-   <img src="/images/subinfo.png" width="600" alt="Fig" style="margin:auto;">
-</div>
-
 ### Personalized Assistance Experiments
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
@@ -32,6 +27,12 @@ Recent advancements in flexible sensing and machine learning have positioned sof
   Your browser does not support the video tag.
 </video>
 </div>
+
+### Appandx
+<div style="display:flex;justify-content:center;">
+   <img src="/images/.png" width="600" alt="Fig" style="margin:auto;">
+</div>
+<br>
 
 ### Questionnaire Survey Results
 <div style="display:flex;justify-content:center;">
