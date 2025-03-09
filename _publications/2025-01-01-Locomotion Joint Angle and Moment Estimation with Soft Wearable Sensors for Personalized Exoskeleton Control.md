@@ -3,8 +3,8 @@ title: "Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors 
 collection: publications
 permalink: /publication/LJAME-SWS-PEC
 excerpt: 'Accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering'
-date: 2025-03-01
-venue: ' '
+date: 2025-03-09
+venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'https://doi.org/10.1109/TNSRE.2025.3547361'
 citation: 'L. Feng et al., "Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2025.3547361.'
 year: 2025
