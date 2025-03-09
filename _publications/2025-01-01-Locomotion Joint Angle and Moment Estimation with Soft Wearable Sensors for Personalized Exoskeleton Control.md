@@ -32,7 +32,6 @@ Recent advancements in flexible sensing and machine learning have positioned sof
 <div style="display:flex;justify-content:center;">
    <img src="/images/TNSRE_appendix_00.png" width="600" alt="Fig" style="margin:auto;">
 </div>
-<br>
 <div style="display:flex;justify-content:center;">
    <img src="/images/TNSRE_appendix_01.png" width="600" alt="Fig" style="margin:auto;">
 </div>
