@@ -30,12 +30,11 @@ Recent advancements in flexible sensing and machine learning have positioned sof
 
 ### Appendix
 <div style="display:flex;justify-content:center;">
-   <img src="/images/TNSRE_appendix_00.png" width="600" alt="Fig" style="margin:auto;">
+   <img src="/images/TNSRE_appendix_00.png" width="800" alt="Fig" style="margin:auto;">
 </div>
 <div style="display:flex;justify-content:center;">
-   <img src="/images/TNSRE_appendix_01.png" width="600" alt="Fig" style="margin:auto;">
+   <img src="/images/TNSRE_appendix_01.png" width="800" alt="Fig" style="margin:auto;">
 </div>
-<br>
 
 ### Questionnaire Survey Results
 <div style="display:flex;justify-content:center;">
