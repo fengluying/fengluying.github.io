@@ -2,7 +2,7 @@
 title: "Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exoskeleton Control"
 collection: publications
 permalink: /publication/LJAME-SWS-PEC
-excerpt: 'Accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering'
+excerpt: 'This study developed a flexible sensing system capable of accurately predicting joint angles and moments, and validated it through a flexible exosuit. '
 date: 2025-03-09
 venue: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering'
 paperurl: 'https://doi.org/10.1109/TNSRE.2025.3547361'
