@@ -11,12 +11,13 @@ redirect_from:
 
 <span style="color: #800000;">Education</span>
 ======
+* 2025.8~: Ph.D. in Computer Science and Technology (Joint Program), Westlake University & Zhejiang University
 * 2021.9-2024.3: M.S. in Mechanical Engineering, Zhejiang University
 * 2017.9-2021.6: B.S. in Mechanical and Electronic Engineering, Jiangnan University
 
 <span style="color: #800000;">Work experience</span>
 ======
-* 2024.4~: Research Assistant in Computer Science and Engineering, Westlake University
+* 2024.4-2025.8: Research Assistant in TGAI lab, Westlake University
 
 <span style="color: #800000;">Research interests</span>
 ======
