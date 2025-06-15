@@ -25,7 +25,6 @@ redirect_from:
 
     .slides-container {
       position: relative;
-      height: 400px;
       overflow: hidden;
     }
 
@@ -46,7 +45,9 @@ redirect_from:
     }
 
     .slide img {
-      width: 500px;
+      max-width: 100%;
+      max-height: 400px; /* 控制图片不会过高 */
+      height: auto;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
