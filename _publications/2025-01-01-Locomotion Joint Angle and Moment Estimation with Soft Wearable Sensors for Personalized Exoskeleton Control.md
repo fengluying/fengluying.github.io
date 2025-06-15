@@ -16,7 +16,7 @@ Recent advancements in flexible sensing and machine learning have positioned sof
 ### Data Collection
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
-  <source src="/images/Data_collection_LOCO.mp4" type="video/mp4">
+  <source src="/images/publications/TNSRE/Data_collection_LOCO.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
@@ -24,22 +24,22 @@ Recent advancements in flexible sensing and machine learning have positioned sof
 ### Personalized Assistance Experiments
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
-  <source src="/images/Personalized.mp4" type="video/mp4">
+  <source src="/images/publications/TNSRE/Personalized.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
 
 ### Appendix
 <div style="display:flex;justify-content:center;">
-   <img src="/images/TNSRE_appendix_00.png" width="800" alt="Fig" style="margin:auto;">
+   <img src="/images/publications/TNSRE/TNSRE_appendix_00.png" width="800" alt="Fig" style="margin:auto;">
 </div>
 <div style="display:flex;justify-content:center;">
-   <img src="/images/TNSRE_appendix_01.png" width="800" alt="Fig" style="margin:auto;">
+   <img src="/images/publications/TNSRE/TNSRE_appendix_01.png" width="800" alt="Fig" style="margin:auto;">
 </div>
 
 ### Questionnaire Survey Results
 <div style="display:flex;justify-content:center;">
-   <img src="/images/WEN.png" width="600" alt="Fig" style="margin:auto;">
+   <img src="/images/publications/TNSRE/WEN.png" width="600" alt="Fig" style="margin:auto;">
 </div>
 <br>
 

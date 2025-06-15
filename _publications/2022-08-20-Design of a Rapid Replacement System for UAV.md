@@ -14,7 +14,6 @@ To reduce the high cost of UAV battery replacement，a low-cost，high-precision
 
 <div style="display:flex;justify-content:center;">
 <video width="600" controls>
-  <source src="/images/UAV.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="/images/publications/UAV/UAV.mp4" type="video/mp4">
 </video>
 </div>

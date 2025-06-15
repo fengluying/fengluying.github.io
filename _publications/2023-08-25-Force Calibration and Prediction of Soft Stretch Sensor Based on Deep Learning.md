@@ -14,7 +14,7 @@ Soft stretch sensors are increasingly used in wearable devices and flexible exos
 
 
 <div style="display:flex;justify-content:center;">
-   <img src="/images/ICARM2023.jpg" width="600" alt="Fig" style="margin:auto;">
+   <img src="/images/publications/ICARM/ICARM2023.jpg" width="600" alt="Fig" style="margin:auto;">
 </div>
 Sanya, July 9, 2023
 <br>
