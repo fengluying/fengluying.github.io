@@ -108,38 +108,38 @@ redirect_from:
   <p>Volunteer memories preserved here.</p>
 
   <div class="slides-container">
+    
     <div class="slide active">
-      <img src="/images/news/volunteer/CEC2025.jpg">
-      <div class="slide-caption">
-        <strong>CEC 2025</strong><br>
+    <div class="slide-caption">
+    <strong>CEC 2025</strong><br>
         Hangzhou, June 12, 2025
       </div>
+      <img src="/images/news/volunteer/CEC2025.jpg">
     </div>
 
-
-    <div class="slide">
-      <img src="/images/news/volunteer/CCF2025.jpg">
-      <div class="slide-caption">
+    <div class="slide-caption">
         <strong>CCF-AI演化学组成立大会</strong><br>
         Hangzhou, January 17, 2025
       </div>
+    <div class="slide">
+      <img src="/images/news/volunteer/CCF2025.jpg">
     </div>
 
-    <div class="slide">
-      <img src="/images/news/volunteer/SES2024.jpg">
-      <div class="slide-caption">
+    <div class="slide-caption">
         <strong>SES 2024</strong><br>
         Hangzhou, August 21, 2024
       </div>
+    <div class="slide">
+      <img src="/images/news/volunteer/SES2024.jpg">
     </div>
 
-    <div class="slide">
-      <img src="/images/news/volunteer/DOCS2024.jpg">
-      <div class="slide-caption">
+    <div class="slide-caption">
         <strong>DOCS 2024</strong><br>
         Hangzhou, August 17, 2024
       </div>
-    </div>
+    <div class="slide">
+      <img src="/images/news/volunteer/DOCS2024.jpg">
+      </div>
   </div>
 
   <button class="slider-btn prev-btn">❮</button>
