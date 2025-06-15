@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -52,16 +51,24 @@ redirect_from:
     .slide img {
       width: 100%;
       height: 100%;
-      object-fit: contain; /* 关键：保持比例缩放适应容器 */
+      object-fit: contain;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
 
     .slide-caption {
-      margin-top: 1rem;
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px 20px;
+      border-radius: 8px;
       font-style: italic;
-      color: #555;
-      transition: opacity 0.5s;
+      color: #333;
+      z-index: 2;
+      max-width: 90%;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
     }
 
     .slider-btn {
@@ -108,38 +115,37 @@ redirect_from:
   <p>Volunteer memories preserved here.</p>
 
   <div class="slides-container">
-    
     <div class="slide active">
-    <div class="slide-caption">
-    <strong>CEC 2025</strong><br>
+      <img src="/images/news/volunteer/CEC2025.jpg">
+      <div class="slide-caption">
+        <strong>CEC 2025</strong><br>
         Hangzhou, June 12, 2025
       </div>
-      <img src="/images/news/volunteer/CEC2025.jpg">
     </div>
 
     <div class="slide">
-    <div class="slide-caption">
+      <img src="/images/news/volunteer/CCF2025.jpg">
+      <div class="slide-caption">
         <strong>CCF-AI演化学组成立大会</strong><br>
         Hangzhou, January 17, 2025
       </div>
-      <img src="/images/news/volunteer/CCF2025.jpg">
     </div>
 
     <div class="slide">
-    <div class="slide-caption">
+      <img src="/images/news/volunteer/SES2024.jpg">
+      <div class="slide-caption">
         <strong>SES 2024</strong><br>
         Hangzhou, August 21, 2024
       </div>
-      <img src="/images/news/volunteer/SES2024.jpg">
     </div>
 
     <div class="slide">
-    <div class="slide-caption">
+      <img src="/images/news/volunteer/DOCS2024.jpg">
+      <div class="slide-caption">
         <strong>DOCS 2024</strong><br>
         Hangzhou, August 17, 2024
       </div>
-      <img src="/images/news/volunteer/DOCS2024.jpg">
-      </div>
+    </div>
   </div>
 
   <button class="slider-btn prev-btn">❮</button>
