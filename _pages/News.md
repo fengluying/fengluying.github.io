@@ -109,7 +109,7 @@ redirect_from:
 
   <div class="slides-container">
     <div class="slide active">
-      <img src="images/news/volunteer/CEC2025.jpg" alt="CEC Volunteer Event">
+      <img src="images/news/volunteer/CEC2025.jpg">
       <div class="slide-caption">
         <strong>CEC</strong><br>
         Hangzhou, June 12, 2025
@@ -117,7 +117,7 @@ redirect_from:
     </div>
 
     <div class="slide">
-      <img src="images/news/volunteer/CCF2025.jpg" alt="CCF Volunteer Event">
+      <img src="images/news/volunteer/CCF2025.jpg">
       <div class="slide-caption">
         <strong>CCF</strong><br>
         Hangzhou, January 17, 2025
@@ -125,7 +125,7 @@ redirect_from:
     </div>
 
     <div class="slide">
-      <img src="images/news/volunteer/SES2024.jpg" alt="SES Volunteer Event">
+      <img src="images/news/volunteer/SES2024.jpg">
       <div class="slide-caption">
         <strong>SES 2024</strong><br>
         Hangzhou, August 21, 2024
@@ -133,7 +133,7 @@ redirect_from:
     </div>
 
     <div class="slide">
-      <img src="images/news/volunteer/DOCS2024.jpg" alt="DOCS Volunteer Event">
+      <img src="images/news/volunteer/DOCS2024.jpg">
       <div class="slide-caption">
         <strong>DOCS 2024</strong><br>
         Hangzhou, August 17, 2024
