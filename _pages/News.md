@@ -24,7 +24,7 @@ redirect_from:
       </div>
     </div>
 
-    <div class="slide" style="display: none; text-align: center;">
+  <div class="slide" style="display: none; text-align: center;">
       <img src="/images/news/volunteer/CCF2025.jpg" width="500" alt="CCF Volunteer Event" style="margin: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <div class="slide-caption" style="margin-top: 1rem; font-style: italic; color: #555;">
         <strong>CCF Community Service</strong><br>
@@ -32,7 +32,7 @@ redirect_from:
       </div>
     </div>
 
-    <div class="slide" style="display: none; text-align: center;">
+  <div class="slide" style="display: none; text-align: center;">
       <img src="/images/news/volunteer/SES2024.jpg" width="500" alt="SES Volunteer Event" style="margin: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <div class="slide-caption" style="margin-top: 1rem; font-style: italic; color: #555;">
         <strong>SES Education Initiative</strong><br>
@@ -40,7 +40,7 @@ redirect_from:
       </div>
     </div>
 
-    <div class="slide" style="display: none; text-align: center;">
+  <div class="slide" style="display: none; text-align: center;">
       <img src="/images/news/volunteer/DOCS2024.jpg" width="500" alt="DOCS Volunteer Event" style="margin: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <div class="slide-caption" style="margin-top: 1rem; font-style: italic; color: #555;">
         <strong>DOCS Healthcare Outreach</strong><br>
@@ -48,9 +48,9 @@ redirect_from:
       </div>
     </div>
 
-    <!-- Navigation buttons -->
-    <button class="prev-btn" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; border-radius: 50%; cursor: pointer;">❮</button>
-    <button class="next-btn" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; border-radius: 50%; cursor: pointer;">❯</button>
+  <!-- Navigation buttons -->
+  <button class="prev-btn" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; border-radius: 50%; cursor: pointer;">❮</button>
+  <button class="next-btn" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; border-radius: 50%; cursor: pointer;">❯</button>
   </div>
 </div>
 
