@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,7 +23,7 @@ redirect_from:
 
     .slides-container {
       position: relative;
-      height: 800px;
+      height: 800px; /* 固定区域高度 */
       overflow: hidden;
     }
 
@@ -37,10 +36,7 @@ redirect_from:
       z-index: 0;
       transition: opacity 0.5s ease;
       pointer-events: none;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
+      display: block; /* ✅ 不使用 flex，避免高度塌陷 */
     }
 
     .slide.active {
@@ -50,9 +46,10 @@ redirect_from:
     }
 
     .slide img {
-      width: 100%;
-      height: 100%;
-      object-fit: contain; /* 关键：保持比例缩放适应容器 */
+      max-width: 100%;
+      max-height: 80%;  /* ✅ 给图片留出文字区域 */
+      height: auto;
+      object-fit: contain; /* ✅ 保持比例完整显示 */
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
@@ -111,7 +108,7 @@ redirect_from:
     <div class="slide active">
       <img src="images/news/volunteer/CEC2025.jpg" alt="CEC Volunteer Event">
       <div class="slide-caption">
-        <strong>CEC Volunteer Program</strong><br>
+        <strong>CEC 2025</strong><br>
         Hangzhou, June 12, 2025
       </div>
     </div>
@@ -119,7 +116,7 @@ redirect_from:
     <div class="slide">
       <img src="images/news/volunteer/CCF2025.jpg" alt="CCF Volunteer Event">
       <div class="slide-caption">
-        <strong>CCF Community Service</strong><br>
+        <strong>CCF</strong><br>
         Hangzhou, January 17, 2025
       </div>
     </div>
@@ -127,7 +124,7 @@ redirect_from:
     <div class="slide">
       <img src="images/news/volunteer/SES2024.jpg" alt="SES Volunteer Event">
       <div class="slide-caption">
-        <strong>SES Education Initiative</strong><br>
+        <strong>SES</strong><br>
         Hangzhou, August 21, 2024
       </div>
     </div>
@@ -135,7 +132,7 @@ redirect_from:
     <div class="slide">
       <img src="images/news/volunteer/DOCS2024.jpg" alt="DOCS Volunteer Event">
       <div class="slide-caption">
-        <strong>DOCS Healthcare Outreach</strong><br>
+        <strong>DOCS 2024</strong><br>
         Hangzhou, August 17, 2024
       </div>
     </div>
