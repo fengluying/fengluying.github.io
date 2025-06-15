@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,18 +24,23 @@ redirect_from:
 
     .slides-container {
       position: relative;
-      height: 600px;
+      height: 800px;
       overflow: hidden;
     }
 
     .slide {
       position: absolute;
       width: 100%;
+      height: 100%;
       text-align: center;
       opacity: 0;
       z-index: 0;
       transition: opacity 0.5s ease;
       pointer-events: none;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
     }
 
     .slide.active {
@@ -45,7 +50,9 @@ redirect_from:
     }
 
     .slide img {
-      width: 500px;
+      width: 100%;
+      height: 100%;
+      object-fit: contain; /* 关键：保持比例缩放适应容器 */
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
@@ -102,7 +109,7 @@ redirect_from:
 
   <div class="slides-container">
     <div class="slide active">
-      <img src="/images/news/volunteer/CEC2025.jpg" alt="CEC Volunteer Event">
+      <img src="images/news/volunteer/CEC2025.jpg" alt="CEC Volunteer Event">
       <div class="slide-caption">
         <strong>CEC Volunteer Program</strong><br>
         Hangzhou, June 12, 2025
@@ -110,7 +117,7 @@ redirect_from:
     </div>
 
     <div class="slide">
-      <img src="/images/news/volunteer/CCF2025.jpg" alt="CCF Volunteer Event">
+      <img src="images/news/volunteer/CCF2025.jpg" alt="CCF Volunteer Event">
       <div class="slide-caption">
         <strong>CCF Community Service</strong><br>
         Hangzhou, January 17, 2025
@@ -118,7 +125,7 @@ redirect_from:
     </div>
 
     <div class="slide">
-      <img src="/images/news/volunteer/SES2024.jpg" alt="SES Volunteer Event">
+      <img src="images/news/volunteer/SES2024.jpg" alt="SES Volunteer Event">
       <div class="slide-caption">
         <strong>SES Education Initiative</strong><br>
         Hangzhou, August 21, 2024
@@ -126,7 +133,7 @@ redirect_from:
     </div>
 
     <div class="slide">
-      <img src="/images/news/volunteer/DOCS2024.jpg" alt="DOCS Volunteer Event">
+      <img src="images/news/volunteer/DOCS2024.jpg" alt="DOCS Volunteer Event">
       <div class="slide-caption">
         <strong>DOCS Healthcare Outreach</strong><br>
         Hangzhou, August 17, 2024
