@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -25,12 +24,13 @@ redirect_from:
 
     .slides-container {
       position: relative;
+      height: 100%;
       overflow: hidden;
     }
 
     .slide {
       position: absolute;
-      width: 100%;
+      width: 600px;
       text-align: center;
       opacity: 0;
       z-index: 0;
@@ -45,9 +45,7 @@ redirect_from:
     }
 
     .slide img {
-      max-width: 100%;
-      max-height: 400px; /* 控制图片不会过高 */
-      height: auto;
+      width: 500px;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
