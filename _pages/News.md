@@ -24,7 +24,7 @@ redirect_from:
 
     .slides-container {
       position: relative;
-      height: 800px;
+      height: 700px;
       overflow: hidden;
     }
 
@@ -111,7 +111,7 @@ redirect_from:
     <div class="slide active">
       <img src="/images/news/volunteer/CEC2025.jpg">
       <div class="slide-caption">
-        <strong>CEC</strong><br>
+        <strong>CEC 2025</strong><br>
         Hangzhou, June 12, 2025
       </div>
     </div>
@@ -120,7 +120,7 @@ redirect_from:
     <div class="slide">
       <img src="/images/news/volunteer/CCF2025.jpg">
       <div class="slide-caption">
-        <strong>CCF</strong><br>
+        <strong>CCF-AI演化学组成立大会</strong><br>
         Hangzhou, January 17, 2025
       </div>
     </div>
