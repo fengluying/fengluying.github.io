@@ -24,13 +24,13 @@ redirect_from:
 
     .slides-container {
       position: relative;
-      height: 100%;
+      height: 600px;
       overflow: hidden;
     }
 
     .slide {
       position: absolute;
-      width: 600px;
+      width: 100%;
       text-align: center;
       opacity: 0;
       z-index: 0;
