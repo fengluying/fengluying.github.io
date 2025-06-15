@@ -23,8 +23,5 @@ Soft sensors are increasingly used in wearable devices as well as soft robotics.
    <img src="/images/publications/DOCS/DOCS2024_1.jpg" width="600" alt="Fig" style="margin:auto;">
 </div>
 <br>
-<div style="display:flex;justify-content:center;">
-   <img src="/images/publications/DOCS/DOCS2024_2.jpg" width="600" alt="Fig" style="margin:auto;">
-</div>
 Hangzhou, August 17, 2024
 <br>
