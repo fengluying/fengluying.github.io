@@ -43,7 +43,7 @@ redirect_from:
 ======
 ## <span style="color: #800000;">PAPERS</span>
 ### In submission
-**Wandong Sun∗**, **Luying Feng∗**, Baoshi Cao, et al. "ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation"
+**Sun W∗**, **Feng L∗**, Baoshi Cao, et al. "ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation"
 
 ### 2025
 **Feng L**, Gui L, Xu W, et al. "Locomotion Joint Angle and Moment Estimation With Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 33, pp. 1048-1060, 2025, doi: 10.1109/TNSRE.2025.3547361.
