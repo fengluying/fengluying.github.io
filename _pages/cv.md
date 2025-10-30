@@ -46,9 +46,11 @@ redirect_from:
 Sun W∗, **Feng L∗**, Baoshi Cao, et al. "ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation"
 
 ### 2025
-**Feng L**, Gui L, Xu W, et al. "Locomotion Joint Angle and Moment Estimation With Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 33, pp. 1048-1060, 2025, doi: 10.1109/TNSRE.2025.3547361.
+Azam H, Xu W, Wang H, **Feng L**, et al. Benchmarking State-of-the-Art Lower Limb Joint Moment Estimator Against Advanced Time Series Models[C]//International Conference on Intelligent Robotics and Applications. Singapore: Springer Nature Singapore, 2025: 275-284.
 
 Wang X, Sun X, **Feng L**, et al. Data-Driven Modeling of Hydraulic-to-Electric Energy Conversion for Underwater Thermal Vehicles[C]//2025 7th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2025: 86-92.
+
+**Feng L**, Gui L, Xu W, et al. "Locomotion Joint Angle and Moment Estimation With Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 33, pp. 1048-1060, 2025, doi: 10.1109/TNSRE.2025.3547361.
 
 ### 2024
 **Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W. Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
