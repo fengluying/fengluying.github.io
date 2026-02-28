@@ -43,7 +43,12 @@ redirect_from:
 ======
 ## <span style="color: #800000;">PAPERS</span>
 ### In submission
-Sun W∗, **Feng L∗**, Baoshi Cao, et al. "ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation"
+**Feng L**, Jin Y, Hu H, and Chen W. "Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits", https://arxiv.org/abs/2602.21666v1
+
+Sun W∗, **Feng L∗**, Baoshi Cao, et al. "ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation", https://arxiv.org/abs/2507.06905
+
+### 2026
+Wang, X., Sun, X., Deng, L., **Feng, L**, et al. Sensorless Strategy for Controlling SPMSM Combining Improved Adaptive SMO and Finite-Position-Set PLL. Actuators, 15(3), 134. doi: 10.3390/act15030134.
 
 ### 2025
 Azam H, Xu W, Wang H, **Feng L**, et al. Benchmarking State-of-the-Art Lower Limb Joint Moment Estimator Against Advanced Time Series Models[C]//International Conference on Intelligent Robotics and Applications. Singapore: Springer Nature Singapore, 2025: 275-284.
