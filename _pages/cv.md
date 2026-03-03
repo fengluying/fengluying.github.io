@@ -51,6 +51,8 @@ Sun W∗, **Feng L∗**, Baoshi Cao, et al. "ULC: A Unified and Fine-Grained Con
 Wang, X., Sun, X., Deng, L., **Feng, L**, et al. Sensorless Strategy for Controlling SPMSM Combining Improved Adaptive SMO and Finite-Position-Set PLL. Actuators, 15(3), 134. doi: 10.3390/act15030134.
 
 ### 2025
+Hu H, **Feng L**, Chen W, Wang T, Jin Y and Chen S, ShoesMimic: One-Policy Whole-Body Control for Multi-Shoe Humanoid Locomotion[C]//2025 5th International Conference on Mechanical Automation and Electronic Information Engineering (MAEIE), Ningbo, China, 2025, pp. 188-193, doi: 10.1109/MAEIE68099.2025.11406013.
+
 Azam H, Xu W, Wang H, **Feng L**, et al. Benchmarking State-of-the-Art Lower Limb Joint Moment Estimator Against Advanced Time Series Models[C]//International Conference on Intelligent Robotics and Applications. Singapore: Springer Nature Singapore, 2025: 275-284.
 
 Wang X, Sun X, **Feng L**, et al. Data-Driven Modeling of Hydraulic-to-Electric Energy Conversion for Underwater Thermal Vehicles[C]//2025 7th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2025: 86-92.
