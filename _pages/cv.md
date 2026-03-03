@@ -110,11 +110,11 @@ Zhang S, **Feng L**, Xia Q, Sun X, Liu C, Zhao W, Zeng J, Hu R, Zhou Y, Yang C. 
 
 Tian S, Ping X, **Feng L**, Sun M, Li H, Chen Z, Ren Z. A UAV quick battery replacement system[P]. CN111267790B, 2021-07-27.
 
-Fang J, Yang W, **Feng L**, Hu H, Yang C, Yan Z, Xu W, Gui L, Liu D. A mirror-assisted control method for exoskeletons capable of real-time estimation of lower limb joint torques[P]. CN116999296A, 2023-11-07.
+Fang J, Yang W, **Feng L**, Hu H, Yang C, Yan Z, Xu W, Gui L, Liu D. A mirror-assisted control method for exoskeletons capable of real-time estimation of lower limb joint torques[P]. CN116999296B, 2023-11-07.
 
 Zhang S, Zhao W, Zeng J, **Feng L**, Wang X, Tao Y, Hu R, Hu H, Sun X. A contact lens case and detection method for measuring glucose content in tears[P]. CN115452916A, 2022-12-09.
 
-Wang Q, Zhang S, Wang X, **Feng L**, Wang C, Xia Q. An elastic current collector printing ink, its preparation method, and application in 3D-printed stretchable batteries[P]. CN115207362A, 2022-10-18.
+Wang Q, Zhang S, Wang X, **Feng L**, Wang C, Xia Q. An elastic current collector printing ink, its preparation method, and application in 3D-printed stretchable batteries[P]. CN115207362B, 2022-10-18.
 
 Yang W, Gui L, Cao Q, Yan Z, **Feng L**, Yu L, Yang C, Liu X. A Lower Limb Rehabilitation Training System and Method Based on Near-Infrared Brain Functional Imaging[P]. CN116211656A,2023-06-06. 
 
