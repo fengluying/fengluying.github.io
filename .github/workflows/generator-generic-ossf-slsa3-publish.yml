@@ -20,38 +20,31 @@ jobs:
   build:
     runs-on: ubuntu-latest
     outputs:
-      digests: ${{ steps.hash.outputs.digests }}
+      artifacts: ${{ steps.upload.outputs.artifact-path }}
 
     steps:
       - uses: actions/checkout@v4
 
       # ========================================================
-      #
       # Step 1: Build your artifacts.
-      #
       # ========================================================
       - name: Build artifacts
         run: |
-            # These are some amazing artifacts.
-            echo "artifact1" > artifact1
-            echo "artifact2" > artifact2
+            mkdir -p artifacts
+            echo "artifact1" > artifacts/artifact1.txt
+            echo "artifact2" > artifacts/artifact2.txt
+            echo "✅ Built artifacts in ./artifacts/"
 
       # ========================================================
-      #
-      # Step 2: Add a step to generate the provenance subjects
-      #         as shown below. Update the sha256 sum arguments
-      #         to include all binaries that you generate
-      #         provenance for.
-      #
+      # Step 2: Upload artifacts as a single zip (required by SLSA v2)
       # ========================================================
-      - name: Generate subject for provenance
-        id: hash
-        run: |
-          set -euo pipefail
-          # List the artifacts the provenance will refer to.
-          files=$(ls artifact*)
-          # Generate the subjects (base64 encoded).
-          echo "digests=$(sha256sum $files | base64 -w0)" >> "${GITHUB_OUTPUT}"
+      - name: Upload artifacts
+        id: upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: built-artifacts
+          path: ./artifacts/
+          if-no-files-found: error
 
   provenance:
     needs: [build]
@@ -61,5 +54,12 @@ jobs:
       contents: write # To add assets to a release.
     uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v2.0.0
     with:
-      base64-subjects: "${{ needs.build.outputs.digests }}"
-      upload-assets: true # Optional: Upload to a new release
+      # ⚠️ v2 使用 subject-path 而不是 base64-subjects
+      subject-path: './artifacts/artifact*.txt'
+      # ✅ 显式声明这是一个私有仓库
+      private-repository: true
+      # ✅ 上传到 release (如果是 release 触发)
+      upload-assets: true
+    secrets:
+      # 如果上传到 release 需要 token
+      github-token: ${{ secrets.GITHUB_TOKEN }}
