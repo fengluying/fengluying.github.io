@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "CV"
+    url: /cv/
+
+  - title: "The team I joined"
+    url: /teams/
+
+  - title: "News"
+    url: /News/

@@ -1,0 +1,251 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{fontawesome5}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{darkblue}{RGB}{0,0,139}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+\setlength{\footskip}{5pt}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=darkblue,
+    urlcolor=darkblue,
+}
+
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+\newcommand{\resumeSubheading}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#4}} \\
+        \textit{\footnotesize{#3}} &  \footnotesize{#2}\\
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeProject}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#3}} \\
+        \footnotesize{\textit{#2}} & \footnotesize{#4}
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\item \textbf{#1} #2}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{1mm}}
+
+\begin{document}
+
+\begin{center}
+    {\Huge\textbf{Luying Feng}}
+\end{center}
+\vspace{-6mm}
+
+\begin{center}
+    \small{
+    \faEnvelope\ \href{mailto:fengluying@westlake.edu.cn}{fengluying@westlake.edu.cn} |
+    \faHome\ \href{https://fengluying.github.io}{fengluying.github.io} |
+    \faGraduationCap\ \href{https://scholar.google.com/citations?user=6KSkQKEAAAAJ&hl=zh-CN&oi=sra}{Google Scholar} |
+    Last updated: 04/2026
+    }
+\end{center}
+\vspace{-4mm}
+
+\section{\textbf{Research Interests}}
+\small{
+\textbf{Fields:} Robotics, Human-Machine Interaction.\\
+\textbf{Topics:} Brain-inspired Embodied Intelligence, Loco-manipulation, Humanoid Locomotion, Human Movement.
+}
+\vspace{1mm}
+
+\section{\textbf{Education}}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Westlake University \& Zhejiang University (Joint Program)}{Hangzhou, China}
+{Ph.D. in Computer Science and Technology}{Aug 2025 -- Present}
+\resumeSubheading
+{Zhejiang University}{Hangzhou, China}
+{M.S. in Mechanical Engineering}{Sep 2021 -- Mar 2024}
+\resumeSubheading
+{Jiangnan University}{Wuxi, China}
+{B.S. in Mechanical and Electronic Engineering}{Sep 2017 -- Jun 2021}
+\resumeSubHeadingListEnd
+
+\section{\textbf{Employment}}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Westlake University, Trustworthy and General Artificial Intelligence Laboratory (TGAI Lab)}{Hangzhou, China}
+{Research Assistant}{Apr 2024 -- Aug 2025}
+\resumeSubHeadingListEnd
+
+\section{\textbf{Publications}}
+\small{
+\begin{enumerate}[leftmargin=*, labelsep=0.5em, align=left, itemindent=0em, label={[\arabic*]}]
+\item \href{https://arxiv.org/abs/2602.21666v1}{\textbf{Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits}}\\
+\underline{\textbf{Feng L}}, Jin Y, Hu H, and Chen W\\
+Under Review
+
+\item \href{https://arxiv.org/abs/2507.06905}{\textbf{ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation}}\\
+Sun W*, \underline{\textbf{Feng L*}}, Cao B, et al.\\
+Under Review
+
+\item \href{https://arxiv.org/abs/2604.23702}{\textbf{QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear}}\\
+Hu H, \underline{\textbf{Feng L}}, Chen S, Zheng T, Jiang D, Chen W, Zhang C, Yang G, and Jin Y\\
+Under Review
+
+\item \href{https://doi.org/10.1109/TNSRE.2025.3547361}{\textbf{Locomotion Joint Angle and Moment Estimation with Soft Wearable Sensors for Personalized Exosuit Control}}\\
+\underline{\textbf{Feng L}}, Gui L, Xu W, et al.\\
+\textit{IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 33:1048--1060, 2025
+
+\item \href{https://doi.org/10.1016/j.humov.2024.103300}{\textbf{Synergy in Motion: Exploring the Similarity and Variability of Muscle Synergy Patterns in Healthy Individuals}}\\
+\underline{\textbf{Feng L}}, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W\\
+\textit{Human Movement Science}, 98:103300, 2024
+
+\item \href{https://ieeexplore.ieee.org/document/10704430}{\textbf{Force Calibration of Soft-Sensing Unit for Flexible Exoskeleton}}\\
+\underline{\textbf{Feng L}}, Gui L, Wang X, et al.\\
+2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS), pp. 358--364, 2024
+
+\item \href{https://ieeexplore.ieee.org/document/10218756}{\textbf{Force Calibration and Prediction of Soft Stretch Sensor Based on Deep Learning}}\\
+\underline{\textbf{Feng L}}, Gui L, Yan Z, Yu L, Yang C, and Yang W\\
+2023 International Conference on Advanced Robotics and Mechatronics (ICARM), pp. 852--857, 2023
+
+\item \href{https://kns.cnki.net/kcms2/article/abstract?v=BKa2HtjuZGHC2e_fXMSkY_BU2ZcA9QUK4Y80xMxTGRKSHeLFoUXHpYO5ZSmXZT60JdLTKyQf7eyaKE4ynLs2gnj34ThEsjXoMTDAH4RhA20isd1LltquaMNDVc2sWawwVrc8psoJnlyH_CvP2drlS0ogpusviMFXnrFq2ZfrDKc=&uniplatform=NZKPT&language=CHS}{\textbf{Design of a Rapid Replacement System for UAV}}\\
+\underline{\textbf{Feng L}}, Pin X, Wang X, and Yu Z\\
+\textit{Machine Building \& Automation}, 51(04):192--195, 2022 (Chinese)
+
+\item \href{https://www.sciencedirect.com/science/article/pii/S0957417426009607}{\textbf{Subject-independent Hip Moment Estimation From Bilateral Hip Angles in Transitional and Steady-state Gait}}\\
+Azam H, Xu W, \underline{\textbf{Feng L}}, et al.\\
+\textit{Expert Systems with Applications}, 2026:132047
+
+\item \href{https://doi.org/10.3390/act15030134}{\textbf{Sensorless Strategy for Controlling SPMSM Combining Improved Adaptive SMO and Finite-Position-Set PLL}}\\
+Wang X, Sun X, Deng L, \underline{\textbf{Feng L}}, et al.\\
+\textit{Actuators}, 15(3):134, 2026
+
+\item \href{https://doi.org/10.1109/MAEIE68099.2025.11406013}{\textbf{ShoesMimic: One-Policy Whole-Body Control for Multi-Shoe Humanoid Locomotion}}\\
+Hu H, \underline{\textbf{Feng L}}, Chen W, Wang T, Jin Y, and Chen S\\
+2025 5th International Conference on Mechanical Automation and Electronic Information Engineering (MAEIE), pp. 188--193, 2025
+
+\item \href{https://link.springer.com/chapter/10.1007/978-981-95-2098-5_24}{\textbf{Benchmarking State-of-the-Art Lower Limb Joint Moment Estimator Against Advanced Time Series Models}}\\
+Azam H, Xu W, Wang H, \underline{\textbf{Feng L}}, et al.\\
+International Conference on Intelligent Robotics and Applications (ICIRA), pp. 275--284, 2025
+
+\item \href{https://ieeexplore.ieee.org/document/11200795}{\textbf{Data-Driven Modeling of Hydraulic-to-Electric Energy Conversion for Underwater Thermal Vehicles}}\\
+Wang X, Sun X, \underline{\textbf{Feng L}}, et al.\\
+2025 7th International Conference on Data-driven Optimization of Complex Systems (DOCS), pp. 86--92, 2025
+
+\item \href{https://ieeexplore.ieee.org/document/10218406}{\textbf{Muscle Synergy-Based Human-In-The-Loop Optimization for Personalized Hip Exoskeleton Control}}\\
+Yang W, Yan Z, Yu L*, \underline{\textbf{Feng L}}, Gui L, and Yang C\\
+2023 International Conference on Advanced Robotics and Mechatronics (ICARM), pp. 73--78, 2023
+
+\item \href{https://link.springer.com/chapter/10.1007/978-981-99-6489-5_46}{\textbf{Design and Control of a Novel Underactuated Soft Exosuit}}\\
+Yang W, Gui L, \underline{\textbf{Feng L}}, et al.\\
+International Conference on Intelligent Robotics and Applications (ICIRA), pp. 564--575, 2023
+
+\item \href{https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2022.1031833/full}{\textbf{Biosensors Toward Behavior Detection in Diagnosis of Alzheimer's Disease}}\\
+Sun X, Sun X, Wang Q, Wang X, \underline{\textbf{Feng L}}, et al.\\
+\textit{Frontiers in Bioengineering and Biotechnology}, 2022
+
+\item \href{https://doi.org/10.3389/fbioe.2021.774210}{\textbf{The Application of Wearable Glucose Sensors in Point-of-Care Testing}}\\
+Zhang S, Zeng J, Wang C, \underline{\textbf{Feng L}}, Song Z, Zhao W, Wang Q, and Liu C\\
+\textit{Frontiers in Bioengineering and Biotechnology}, 9:774210, 2021
+
+\end{enumerate}
+}
+\vspace{1mm}
+
+\section{\textbf{Patents (Primary Inventorship)}}
+\small
+\begin{enumerate}[leftmargin=*, labelsep=0.5em, align=left, itemindent=0em, label={[\arabic*]}]
+\item \href{https://kns.cnki.net/kcms2/article/abstract?v=BKa2HtjuZGEfellkQ1dXsK3HA_x8YxaUu6cioYZT_jUXjaczuZ9vx2zOwWTfsDokw82vWwBoDtEx26m6KUH3ziz7UpEPU-Hx2LlpmIC4XEDB0RGcvgvm8zxs0vfXCcFEt7fq0WxF8iF1zF_mG8sOIo1pclf8qSA-HcL_j2BQOPXbsSBNNvCCxg==\&uniplatform=NZKPT\&language=CHS}{\textbf{An embodied intelligent robot inspired by biological development and its control method.}} CN121849266A, 2026-04-14\\
+Chen W, Jin Y, \underline{\textbf{Feng L}}, and Pan, W. X.,
+\item \href{https://kns.cnki.net/kcms2/article/abstract?v=BKa2HtjuZGESLCZ5HcjHs9p_1OSQQK7Nn0_XxuBkrcliCEkdjviqlthQYZNd5pvJ_LR5Llo0tJ9W00Uug7iWeT9l7RXWMpPXf_90zm29myRCwylxkeCzuT4KH-bsDk-HD3GeGfzGsc3lDtumbSl-JyB0tuKUqrU2CNpqAyw4gA34eyy9yi5DvA==\&uniplatform=NZKPT\&language=CHS}{\textbf{A robot agent evaluation system for lower-limb exoskeletons and a gait policy training method for the corresponding agent.}} CN121777198A, 2026-04-03\\
+Jin Y, \underline{\textbf{Feng L}}, and Chen W,
+\item \href{https://patents.google.com/patent/CN116999296B}{\textbf{A mirror-assisted control method for exoskeletons capable of real-time estimation of lower-limb joint torques.}} CN116999296B, 2025-12-12\\
+Fang J, Yang W, \underline{\textbf{Feng L}}, Hu H, Yang C, Yan Z, Xu W, Gui L, and Liu D,
+\item \href{https://patents.google.com/patent/CN116195992A}{\textbf{A motion capture pants and angle estimation method capable of detecting 3D joint angles.}} CN116195992A, 2023-06-02\\
+Yang W, \underline{\textbf{Feng L}}, Gui L, Cao Q, Yan Z, Yu L, Yang C, and Liu X,
+\item \href{https://patents.google.com/patent/CN218391282U}{\textbf{A medical box for Alzheimer's detection with self-locking structure.}} CN218391282U, 2023-01-31\\
+Zhang S, \underline{\textbf{Feng L}}, Xia Q, Sun X, Liu C, Zhao W, Zeng J, Hu R, Zhou Y, and Yang C,
+\item \href{https://patents.google.com/patent/CN115463399B}{\textbf{Basketball training machine.}} CN115463399B, 2022-12-13\\
+\underline{\textbf{Feng L}}, Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W, and Yang C,
+\item \href{https://patents.google.com/patent/CN114800583B}{\textbf{A two-phase-driven flexible hand claw.}} CN114800583B, 2022-07-29\\
+Wang X, \underline{\textbf{Feng L}}, Zhang S, Wu J, Guan Q, Xia Q, Wang Q, Wang C, Sun X, Song Z, and Sun X,
+\item \href{https://patents.google.com/patent/CN114670949B}{\textbf{A two-phase driven soft crawling robot.}} CN114670949B, 2022-06-28\\
+Zhang S, \underline{\textbf{Feng L}}, Wang X, Zhao W, Zeng J, Wang Q, Wang C, and Yang C,
+\item \href{https://patents.google.com/patent/CN114379411B}{\textbf{A UAV battery exchange base station.}} CN114379411B, 2022-04-22\\
+Zhang S, \underline{\textbf{Feng L}}, Yang C, Zhao W, Zeng J, Sun M, Yu Z, and Jing Y,
+\item \href{https://patents.google.com/patent/CN111267790B}{\textbf{A UAV quick battery replacement system.}} CN111267790B, 2021-07-27\\
+Tian S, Ping X, \underline{\textbf{Feng L}}, Sun M, Li H, Chen Z, and Ren Z,
+\item \href{https://patents.google.com/patent/CN111392050B}{\textbf{An UAV external positioning system.}} CN111392050B, 2020-07-10\\
+\underline{\textbf{Feng L}}, Pin X, Sun M, Tian S, Li H, Chen Z, and Ren Z,
+\item \href{https://patents.google.com/patent/CN111267791B}{\textbf{A drone battery quick replacement device.}} CN111267791B, 2020-06-12\\
+\underline{\textbf{Feng L}}, Pin X, Tian S, Sun M, Li H, Chen Z, and Ren Z,
+\item \href{https://patents.google.com/patent/CN209972646U}{\textbf{A gravity-sensing turn signal device.}} CN209972646U, 2020-01-21\\
+\underline{\textbf{Feng L}}, Sun M, Ren D, Zhu C, and Chen J,
+\item \href{https://patents.google.com/patent/CN209650430U}{\textbf{A grip-sensing turn signal device.}} CN209650430U, 2019-11-19\\
+\underline{\textbf{Feng L}}, Sun M, Ren D, Chen J, Zhu C, Zhou X, and Zhu Y,
+\end{enumerate}
+\vspace{1mm}
+\normalsize
+
+\section{\textbf{Professional Services}}
+\small
+\begin{itemize}[leftmargin=*,itemsep=0.8mm]
+  \item \textbf{Conference Reviewer:} IROS 2026, CEC 2025, DOCS 2024, DOCS 2025
+  \item \textbf{Member,} \href{https://www.imol-community.org/community/}{The IMOL Community} (Intrinsically Motivated Open-Ended Learning)
+\end{itemize}
+\vspace{1mm}
+\normalsize
+
+\section{\textbf{Skills}}
+\begin{itemize}[leftmargin=*,itemsep=0.8mm]
+  \resumeSubItem{Programming Languages:}{ Python, MATLAB, C++}
+  \resumeSubItem{Platforms \& Tools:}{ TensorFlow, PyTorch, IsaacSim, Mujoco, Raspberry Pi, Arduino, Jetson, Altium Designer, SOLIDWORKS}
+  \resumeSubItem{Biomechanics \& Rehabilitation:}{Operator Level 1 on the GRAIL, experienced in gait analysis and therapy with patients or other subjects using the GRAIL}
+\end{itemize}
+\vspace{-1mm}
+
+\section{\textbf{Honors and Awards}}
+\small
+\textbf{Honors}
+\begin{itemize}[leftmargin=*,itemsep=0.6mm]
+  \item 2024: Outstanding Graduate Student of Zhejiang University
+  \item 2022: Award of Honor for Graduate, Zhejiang University
+  \item 2018: Exceptional Student Leader, Jiangnan University
+\end{itemize}
+\vspace{1mm}
+\textbf{Awards}
+\begin{itemize}[leftmargin=*,itemsep=0.6mm]
+  \item 2021: Excellent Graduation Project of Jiangsu Province, First prize
+  \item 2019--2021: National Conference on Undergraduate Innovation and Entrepreneurship, National Outstanding Project
+\end{itemize}
+\vspace{1mm}
+\normalsize
+
+\end{document}
