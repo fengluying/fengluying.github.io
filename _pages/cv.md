@@ -93,6 +93,10 @@ Bioengineering and Biotechnology. 9:774210. doi: 10.3389/fbioe.2021.774210.
 Li H, Pin X, Tian S, **Feng L**, Sun M and Chen Z, Unmanned aerial vehicle endurance mobile base station equipped with battery quick change device, Machinery, 2020,58(08):61-63+77. (Chinese Journal)
 
 ## <span style="color: #800000;">PATENTS</span>
+Chen W, Jin Y, **Feng L**, Pan W. X. An embodied intelligent robot inspired by biological development and its control method[P]. CN121849266A, 2026-04-14.
+
+Jin Y, **Feng L**, Chen W. A robot agent evaluation system for lower-limb exoskeletons and a gait policy training method for the corresponding agent[P]. CN121777198A, 2026-04-03.
+
 Yang W, **Feng L**, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
 
 **Feng L** , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399B,2022-12-13. 
